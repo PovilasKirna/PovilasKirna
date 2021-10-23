@@ -2,22 +2,20 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=poviliukas.k&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=poviliukas.k&redirect=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PovilasKirna&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PovilasKirna&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=1D67D9&ring=4C8EDA&stroke=4C8EDA&fire=1D67D9)](https://git.io/streak-stats)
+<!--
 [![Povilas' GitHub stats](https://github-readme-stats.vercel.app/api?username=PovilasKirna&count_private=true&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/PovilasKirna/github-readme-stats)
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11874740&layout=compact)](https://stackoverflow.com/users/11874740/omid-nikrah)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PovilasKirna&layout=compact)](https://github.com/PovilasKirna/github-readme-stats)
-
-
-
+-->
 
 ## I'm a Student, Developer and a Gamer!!
 
 - 🌱 I’m currently learning Technical Computer Science at University of Twente
 - 👯 I’m looking to collaborate with other content creators
-- 💯 Always looking to have fun
+- 💯 I'm always looking to have fun
 - 🎮 I spend my free time working on my alternate career. Online entertainer
 
 ### Connect with me:
