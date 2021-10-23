@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PovilasKirna&layout=compact)](https://github.com/PovilasKirna/github-readme-stats)
 -->
 
-## I'm a Student, Developer and a Gamer!!
+## I'm a Student, Developer, Designer and a Gamer!!
 
 - 🌱 I’m currently learning Technical Computer Science at University of Twente
 - 👯 I’m looking to collaborate with other content creators
@@ -82,3 +82,15 @@
 [instagram]: https://www.instagram.com/kirnapovilas/
 [linkedin]: https://www.linkedin.com/in/povilas-k-61313a122/
 [github]: https://github.com/PovilasKirna
+
+
+
+<!-- 
+Powered by:
+https://github.com/Ileriayo/markdown-badges
+https://github.com/DenverCoder1/github-readme-streak-stats 
+https://github.com/gautamkrishnar/blog-post-workflow
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/kittinan/spotify-github-profile
+https://github.com/omidnikrah/github-readme-stackoverflow
+ -->
