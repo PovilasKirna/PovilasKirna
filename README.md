@@ -20,12 +20,10 @@
 
 ### Connect with me:
 
-![Instagram](https://img.shields.io/badge/kirnaPovilas-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[![Instagram](https://img.shields.io/badge/kirnaPovilas-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][youtube]
+[![YouTube](https://img.shields.io/badge/Mindsmog-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
+[![Twitter](https://img.shields.io/badge/KirnaPovilas-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 <br />
 
 ### Languages and Tools:
@@ -66,7 +64,7 @@
 
 ---
 
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/KirnaPovilas
 [youtube]: https://www.youtube.com/channel/UChTGJ-7Sf-Xb4GXnYE7XhIg
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://www.instagram.com/kirnapovilas/
+[linkedin]: https://www.linkedin.com/in/povilas-k-61313a122/
