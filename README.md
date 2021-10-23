@@ -1,1 +1,1 @@
-[Visitor Count](https://profile-counter.glitch.me/PovilasKirna/count.svg)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
