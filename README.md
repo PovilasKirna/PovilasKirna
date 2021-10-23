@@ -1,5 +1,5 @@
 ### Hi there, I'm Povilas - aka [Mindsmog][youtube] 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23EFDDFF&lines=%23%23%23+Hi+there%2C+I'm+Povilas+-+aka+%5BMindsmog%5D%5Byoutube%5D+%F0%9F%91%8B)](https://git.io/typing-svg)
 ## I'm a Student, Developer and a Gamer!!
 
 - 🌱 I’m currently learning Technical Computer Science at University of Twente
