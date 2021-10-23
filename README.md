@@ -64,7 +64,7 @@
 - [🔴CALYPSO.COM is back! Season 2! Hype stream!](https://www.youtube.com/watch?v=nUHaGYEHlrI)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/UChTGJ-7Sf-Xb4GXnYE7XhIg)
+➡️ [more videos...](https://youtube.com/channel/UChTGJ-7Sf-Xb4GXnYE7XhIg)
 
 ---
 
