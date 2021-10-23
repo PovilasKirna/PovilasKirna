@@ -1,6 +1,6 @@
 ### Hi there, I'm Povilas - aka [Mindsmog][youtube] 👋
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=poviliukas.k&cover_image=true&theme=natemoo-re&bar_color=c4bc00&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=poviliukas.k&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=poviliukas.k&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=poviliukas.k&redirect=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PovilasKirna&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -68,13 +68,7 @@
 
 ---
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://www.youtube.com/channel/UChTGJ-7Sf-Xb4GXnYE7XhIg
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
