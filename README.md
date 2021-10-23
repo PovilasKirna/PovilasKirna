@@ -8,6 +8,9 @@
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11874740&layout=compact)](https://stackoverflow.com/users/11874740/omid-nikrah)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PovilasKirna&layout=compact)](https://github.com/PovilasKirna/github-readme-stats)
+
+
 
 
 ## I'm a Student, Developer and a Gamer!!
