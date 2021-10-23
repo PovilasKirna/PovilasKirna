@@ -4,7 +4,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PovilasKirna&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Povilas' GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/PovilasKirna/github-readme-stats)
+[![Povilas' GitHub stats](https://github-readme-stats.vercel.app/api?username=PovilasKirna)](https://github.com/PovilasKirna/github-readme-stats)
 
 
 ## I'm a Student, Developer and a Gamer!!
