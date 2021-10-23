@@ -1,6 +1,6 @@
 ### Hi there, I'm Povilas - aka [Mindsmog][youtube] 👋
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=poviliukas.k&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=poviliukas.k&cover_image=true&theme=natemoo-re&bar_color=c4bc00&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=poviliukas.k&cover_image=true&theme=natemoo-re&bar_color=c4bc00&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=poviliukas.k&redirect=true)
 
 ## I'm a Student, Developer and a Gamer!!
 
