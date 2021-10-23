@@ -2,6 +2,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=poviliukas.k&cover_image=true&theme=natemoo-re&bar_color=c4bc00&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=poviliukas.k&redirect=true)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PovilasKirna&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ## I'm a Student, Developer and a Gamer!!
 
 - 🌱 I’m currently learning Technical Computer Science at University of Twente
