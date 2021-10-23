@@ -6,6 +6,9 @@
 
 [![Povilas' GitHub stats](https://github-readme-stats.vercel.app/api?username=PovilasKirna&count_private=true&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/PovilasKirna/github-readme-stats)
 
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11874740&layout=compact)](https://stackoverflow.com/users/11874740/omid-nikrah)
+
+
 
 ## I'm a Student, Developer and a Gamer!!
 
