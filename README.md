@@ -9,7 +9,7 @@
 - 💯 I'm always looking to have fun
 - 🎮 I spend my free time working on my alternate career. Online entertainer
 
-### Right now I'm listening to
+## Right now I'm listening to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=poviliukas.k&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=poviliukas.k&redirect=true)
 
@@ -53,10 +53,6 @@
 [![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)][github]
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)][github]
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)][github]
-<br />
-<br />
-
----
 
 ## 📺 Latest YouTube Videos
 
@@ -70,7 +66,6 @@
 
 ➡️ [more videos...](https://youtube.com/channel/UChTGJ-7Sf-Xb4GXnYE7XhIg)
 
----
 
 [twitter]: https://twitter.com/KirnaPovilas
 [youtube]: https://www.youtube.com/channel/UChTGJ-7Sf-Xb4GXnYE7XhIg
