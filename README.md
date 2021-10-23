@@ -1,1 +1,3 @@
-[Visitor Count](https : //profile-counter.glitch.me/{PovilasKirna}/count.svg)
+```
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+```
