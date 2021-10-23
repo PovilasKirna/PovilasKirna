@@ -1,4 +1,4 @@
-### Hi there, I'm Povilas - aka [Mindsmog][youtube] 👋
+## Hi there, I'm Povilas - aka [Mindsmog][youtube] 👋
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PovilasKirna&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=1D67D9&ring=4C8EDA&stroke=4C8EDA&fire=1D67D9)](https://git.io/streak-stats)
 
@@ -21,7 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)][github]
 [![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)][github]
