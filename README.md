@@ -57,11 +57,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [vscode.dev - VS Code In The Browser!!](https://www.youtube.com/watch?v=-5TFQjzEK-8)
-- [STACKr News Weekly: Quit Everything & Start Over 🔃, Stop Procrastinating 🛑, Learn Svelte 🏫](https://www.youtube.com/watch?v=kDdvT8coKwc)
-- [STACKr News Weekly: Quit Google 🚫, Authentication 🔐, Open Source 💪](https://www.youtube.com/watch?v=KxLgwLa8Aq8)
-- [Top VS Code Updates | v1.61 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=JHgbB0RW-50)
-- [Simple Next.js User Login Authentication | 5 Steps in 5 Minutes! | Auth0](https://www.youtube.com/watch?v=jgKRnhJBfpQ)
+- [I'm back. How are you? Minecraft server gameplay!](https://www.youtube.com/watch?v=2Woh4wfGQPg)
+- [Dominating the match with friends!! - Fortnite Battle Royale Gameplay - Mindsmog & Emiliukas18](https://www.youtube.com/watch?v=NdnZrHOkgWA)
+- [TILTED TOWERS METEOR *COMFIRMED* in Fortnite Battle Royale! (DOOMSDAY)](https://www.youtube.com/watch?v=evzR0FbqUU4)
+- [🔴HOW TO GET RiCH iN SKYBLOCK! (Easy!)](https://www.youtube.com/watch?v=Y7yymdnM_vM)
+- [🔴CALYPSO.COM is back! Season 2! Hype stream!](https://www.youtube.com/watch?v=nUHaGYEHlrI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/UChTGJ-7Sf-Xb4GXnYE7XhIg)
