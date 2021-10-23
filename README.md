@@ -1,4 +1,4 @@
-## Hi there, I'm Povilas - aka [Mindsmog][youtube] 👋
+### Hi there, I'm Povilas - aka [Mindsmog][youtube] 👋
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PovilasKirna&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=1D67D9&ring=4C8EDA&stroke=4C8EDA&fire=1D67D9)](https://git.io/streak-stats)
 
@@ -9,7 +9,7 @@
 - 💯 I'm always looking to have fun
 - 🎮 I spend my free time working on my alternate career. Online entertainer
 
-## Right now I'm listening to
+### Right now I'm listening to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=poviliukas.k&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=poviliukas.k&redirect=true)
 
