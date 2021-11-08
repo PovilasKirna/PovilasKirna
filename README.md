@@ -57,10 +57,10 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [I'm back. How are you? Minecraft server gameplay!](https://www.youtube.com/watch?v=2Woh4wfGQPg)
-- [Dominating the match with friends!! - Fortnite Battle Royale Gameplay - Mindsmog & Emiliukas18](https://www.youtube.com/watch?v=NdnZrHOkgWA)
-- [TILTED TOWERS METEOR *COMFIRMED* in Fortnite Battle Royale! (DOOMSDAY)](https://www.youtube.com/watch?v=evzR0FbqUU4)
-- [🔴HOW TO GET RiCH iN SKYBLOCK! (Easy!)](https://www.youtube.com/watch?v=Y7yymdnM_vM)
+- [I&#39;m back. How are you? Minecraft server gameplay!](https://www.youtube.com/watch?v=2Woh4wfGQPg)
+- [Dominating the match with friends!! - Fortnite Battle Royale Gameplay - Mindsmog &amp; Emiliukas18](https://www.youtube.com/watch?v=NdnZrHOkgWA)
+- [TILTED TOWERS METEOR *COMFIRMED* in Fortnite Battle Royale! &lpar;DOOMSDAY&rpar;](https://www.youtube.com/watch?v=evzR0FbqUU4)
+- [🔴HOW TO GET RiCH iN SKYBLOCK! &lpar;Easy!&rpar;](https://www.youtube.com/watch?v=Y7yymdnM_vM)
 - [🔴CALYPSO.COM is back! Season 2! Hype stream!](https://www.youtube.com/watch?v=nUHaGYEHlrI)
 <!-- YOUTUBE:END -->
 
