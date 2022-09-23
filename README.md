@@ -7,41 +7,23 @@ I'm an aspiring indie developer and designer from Lithuania. I'm currently study
 ### 📫 How to reach me
 
 <p align="left">
-<a  href="https://twitter.com/kirnapovilas" 
-    target="blank" style="padding-right:10px;" >
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-        alt="kirnapovilas" 
-        height="30" 
-        width="30" 
-        />
+<a  href="https://twitter.com/kirnapovilas" target="blank">
+<img align="left" alt="Povilas Kirna | Twitter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
-<a  href="https://linkedin.com/in/kirnapovilas" 
-    target="blank" style="padding-right:10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-    alt="kirnapovilas" 
-    height="30"
-    width="30" 
-    />
+<a  href="https://linkedin.com/in/kirnapovilas" target="blank">
+<img align="left" alt="Povilas Kirna | LinkedIn" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
-<a  href="https://instagram.com/kirnapovilas" 
-    target="blank" style="padding-right:10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-    alt="kirnapovilas"
-    height="30" 
-    width="30" 
-    />
+<a  href="https://instagram.com/kirnapovilas" target="blank">
+<img align="left" alt="Povilas Kirna | Instagram" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
-<a  href="https://www.youtube.com/c/poeqey" 
-    target="blank" style="padding-right:10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
-    alt="poeqey" 
-    height="30" 
-    width="30" 
-    />
+<a  href="https://www.youtube.com/c/poeqey" target="blank">
+<img align="left" alt="Povilas Kirna | Youtube" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"/>
 </a>
 </p>
 
----
+<br>
+
+#
 
 ### 🧰 Languages and Tools
 
