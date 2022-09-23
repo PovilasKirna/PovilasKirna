@@ -1,81 +1,78 @@
-### Hi there, I'm Povilas - aka [Mindsmog][youtube] 👋
+# Hi there, I'm Povilas - aka PoeQey👋
+
+**`Digital craftsman(Student/Developer/Designer)`**
+
+I'm an aspiring indie developer and designer from Lithuania. I'm currently studying Bussiness Information Technology at University of Twente. I'm interested in web development, UI/UX design, and game development. I'm also a big fan of open-source software and I'm always looking for new ways to improve my skills. I spend my free time working on my personal projects, learning new things, and playing video games sometimes sharing them with my friends online. I'm also a big fan of anime. I'm currently working on a few projects, but I'm always looking for new opportunities to work in a real-world environment. Check out my portfolio to see what I've been working on lately, all of my projects are available at [https://www.povilaskirna.com/](https://www.povilaskirna.com/)👨‍💻
+
+### 📫 How to reach me
+
+<p align="left">
+<a  href="https://twitter.com/kirnapovilas" 
+    target="blank" style="padding-right:10px;" >
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+        alt="kirnapovilas" 
+        height="30" 
+        width="30" 
+        />
+</a>
+<a  href="https://linkedin.com/in/kirnapovilas" 
+    target="blank" style="padding-right:10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+    alt="kirnapovilas" 
+    height="30"
+    width="30" 
+    />
+</a>
+<a  href="https://instagram.com/kirnapovilas" 
+    target="blank" style="padding-right:10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+    alt="kirnapovilas"
+    height="30" 
+    width="30" 
+    />
+</a>
+<a  href="https://www.youtube.com/c/poeqey" 
+    target="blank" style="padding-right:10px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
+    alt="poeqey" 
+    height="30" 
+    width="30" 
+    />
+</a>
+</p>
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+<br>
+
+#
+
+### 📊 My Github Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PovilasKirna&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=1D67D9&ring=4C8EDA&stroke=4C8EDA&fire=1D67D9)](https://git.io/streak-stats)
 
-## I'm a Student, Developer, Designer and a Gamer!!
-
-- 🌱 I’m currently learning Technical Computer Science at University of Twente
-- 👯 I’m looking to collaborate with other content creators
-- 💯 I'm always looking to have fun
-- 🎮 I spend my free time working on my alternate career. Online entertainer
-
-### Right now I'm listening to
+### 🎧 Right now I'm listening to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=poviliukas.k&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=poviliukas.k&redirect=true)
-
-## Connect with me:
-
-[![Instagram](https://img.shields.io/badge/kirnaPovilas-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
-[![YouTube](https://img.shields.io/badge/Mindsmog-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
-[![Twitter](https://img.shields.io/badge/KirnaPovilas-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-<br />
-
-## Languages and Tools:
-
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)][github]
-[![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)][github]
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)][github]
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)][github]
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)][github]
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)][github]
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)][github]
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)][github]
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)][github]
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)][github]
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)][github]
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)][github]
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-[![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)][github]
-[![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)][github]
-[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)][github]
-[![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)][github]
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)][github]
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)][github]
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)][github]
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)][github]
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)][github]
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)][github]
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)][github]
-[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)][github]
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)][github]
-[![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)][github]
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)][github]
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)][github]
-
-## 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [I&#39;m back. How are you? Minecraft server gameplay!](https://www.youtube.com/watch?v=2Woh4wfGQPg)
-- [Dominating the match with friends!! - Fortnite Battle Royale Gameplay - Mindsmog &amp; Emiliukas18](https://www.youtube.com/watch?v=NdnZrHOkgWA)
-- [TILTED TOWERS METEOR *COMFIRMED* in Fortnite Battle Royale! &lpar;DOOMSDAY&rpar;](https://www.youtube.com/watch?v=evzR0FbqUU4)
-- [🔴HOW TO GET RiCH iN SKYBLOCK! &lpar;Easy!&rpar;](https://www.youtube.com/watch?v=Y7yymdnM_vM)
-- [🔴CALYPSO.COM is back! Season 2! Hype stream!](https://www.youtube.com/watch?v=nUHaGYEHlrI)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/channel/UChTGJ-7Sf-Xb4GXnYE7XhIg)
-
-
-[twitter]: https://twitter.com/KirnaPovilas
-[youtube]: https://www.youtube.com/channel/UChTGJ-7Sf-Xb4GXnYE7XhIg
-[instagram]: https://www.instagram.com/kirnapovilas/
-[linkedin]: https://www.linkedin.com/in/povilas-k-61313a122/
-[github]: https://github.com/PovilasKirna
-
-
-
 
 <!--
 [![Povilas' GitHub stats](https://github-readme-stats.vercel.app/api?username=PovilasKirna&count_private=true&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/PovilasKirna/github-readme-stats)
@@ -85,12 +82,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PovilasKirna&layout=compact)](https://github.com/PovilasKirna/github-readme-stats)
 -->
 
-
-
-<!-- 
+<!--
 Powered by:
 https://github.com/Ileriayo/markdown-badges
-https://github.com/DenverCoder1/github-readme-streak-stats 
+https://github.com/DenverCoder1/github-readme-streak-stats
 https://github.com/gautamkrishnar/blog-post-workflow
 https://github.com/anuraghazra/github-readme-stats
 https://github.com/kittinan/spotify-github-profile
