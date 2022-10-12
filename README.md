@@ -2,7 +2,7 @@
 
 **`Digital craftsman(Student/Developer/Designer)`**
 
-I'm an aspiring indie developer and designer from Lithuania. I'm currently studying Bussiness Information Technology at University of Twente. I'm interested in web development, UI/UX design, and game development. I'm also a big fan of open-source software and I'm always looking for new ways to improve my skills. I spend my free time working on my personal projects, learning new things, and playing video games sometimes sharing them with my friends online. I'm also a big fan of anime. I'm currently working on a few projects, but I'm always looking for new opportunities to work in a real-world environment. Check out my portfolio to see what I've been working on lately, all of my projects are available at [https://www.povilaskirna.com/](https://www.povilaskirna.com/)👨‍💻
+I'm an aspiring indie developer and designer from Lithuania. I'm currently studying Bussiness Information Technology at University of Twente. I'm interested in web development, UI/UX design, and game development. I'm also a big fan of AI and I'm always looking for new ways to improve my skills. I spend my free time working on my personal projects, learning new things, and playing video games sometimes sharing them with my friends online. I'm also a big fan of anime. I'm currently working on a few projects, but I'm always looking for new opportunities to work in a real-world environment. Check out my portfolio to see what I've been working on lately, all of my projects are available at [https://www.povilaskirna.com/](https://www.povilaskirna.com/)👨‍💻
 
 ### 📫 How to reach me
 
